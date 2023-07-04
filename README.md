@@ -1,0 +1,2 @@
+# EClient-JavaScript
+GeoEdge Client for JavaScript是一个功能丰富的开发包，用于构建WebGIS客户端应用程序。它提供了强大的地理空间数据处理和地图显示功能，以及与其他GIS服务的集成能力。无论您是地理信息系统开发者还是需要在Web应用程序中嵌入地图功能的开发者，GeoEdge Client for JavaScript都是一个值得考虑的选择。
