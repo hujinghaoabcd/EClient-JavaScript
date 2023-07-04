@@ -12,5 +12,6 @@ EClient for JavaScript是GeoEdge系列产品中的一员，是一套基于JavaSc
 
 此外，EClient for JavaScript还支持与其他地理信息系统（GIS）服务和数据源的集成，如地理编码服务、地图切片服务和地理数据库等。它提供了统一的API接口，使您可以方便地访问和使用这些外部资源。
 
-总而言之，EClient for JavaScript是一个功能丰富的开发包，用于构建WebGIS客户端应用程序。它提供了强大的地理空间数据处理和地图显示功能，以及与其他GIS服务的集成能力。无论您是地理信息系统开发者还是需要在Web应用程序中嵌入地图功能的开发者，EClient for JavaScript都是一个值得考虑的选择。
+总而言之，EClient for JavaScript是一个功能丰富的开发包，用于构建WebGIS客户端应用程序。它提供了强大的地理空间数据处理和地图显示功能，以及与其他GIS服务的集成能力。无论您是地理信息系统开发者还是需要在Web应用程序中嵌入地图功能的开发者，EClient for JavaScript都是一个值得考虑的选择。 
+
 
