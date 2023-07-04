@@ -1,2 +1,2 @@
 # EClient-JavaScript
-EClient for JavaScript是GeoEdge一个功能丰富的开发包，用于构建WebGIS客户端应用程序。它提供了强大的地理空间数据处理和地图显示功能，以及与其他GIS服务的集成能力。
+EClient for JavaScript是一个GeoEdge功能丰富的WebGIS客户端开发包。它提供了强大的地理空间数据处理和地图显示功能，以及与其他GIS服务的集成能力。
