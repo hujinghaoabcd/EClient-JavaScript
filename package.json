@@ -1,0 +1,36 @@
+{
+  "name": "eclient-javascript",
+  "version": "1.0.0",
+  "description": "EClient for JavaScript是GeoEdge系列产品中的一员，是一套基于JavaScript的WebGIS客户端开发包。它提供了强大的地理空间数据处理和地图显示功能，以及与其他GIS服务的集成能力。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hujinghaoabcd/EClient-JavaScript.git"
+  },
+  "keywords": [
+    "EClient",
+    "GeoEdge",
+    "WebGIS",
+    "OpenLayers"
+  ],
+  "author": "Hujinghao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hujinghaoabcd/EClient-JavaScript/issues"
+  },
+  "homepage": "https://github.com/hujinghaoabcd/EClient-JavaScript#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "ncp": "^2.0.0",
+    "tape": "^5.6.4",
+    "tinyify": "^4.0.0",
+    "uglifyify": "^5.0.2",
+    "watchify": "^4.0.0"
+  }
+}

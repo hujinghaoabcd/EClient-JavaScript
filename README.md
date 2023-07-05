@@ -1,5 +1,4 @@
 # EClient-JavaScript
-[![Npm package](https://img.shields.io/npm/v/hmap-js.svg)](https://www.npmjs.org/package/hmap-js)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/sakitam-fdd/HMap/master/LICENSE)
 
 ## 简介 
